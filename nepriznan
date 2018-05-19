@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Непризнанные государства.</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Непризнанные страны мира">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/style2.css?1524486852" rel="stylesheet" type="text/css">
+<link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="/jscript/jquery-1.9.1.js"></script>
+</head>
+ 
+<body>
+<div class="global">
+	<div class="fields">
+		
+		<!--noindex-->
+
+<div class="b-dropdown dropdown_catalog-menu" id="b-dropdown-catalog-menu">
+
+    <span class=green> "ГЕОГРАФИЯ"</span>
+		
+    <div class="b-dropdown__body dropdown-menu">
+        <div class="b-dropdown__body__h">
+			<ul class="menu-list">
+
+				
+			</ul>
+		</div>
+	</div>
+</div>
+<!--/noindex-->
+</div>
+	
+<!--noindex-->
+	
+	</div>
+</div>
+	
+<div class="field_left">
+</div>
+
+<!--/noindex-->		
+
+<div class="field_center">
+
+<!-- начало ИНФОРМАЦИОННОЕ ПОЛЕ -->
+
+<h1>Непризнанные и частично признанные страны мира</h1>
+
+
+<p>Hе все страны мира признаны мировым сообществом. Есть список стран мира. Есть страны, которых в этих списках нет, но фактически они существуют, говорят о своей государственности и даже признаны некоторыми другими странами. Все непризнанные или частично признанные государства сильно отличаются друг от друга.Понятие «непризнанное государство» условно. На самом деле к ним обычно относят и частично признанные государства.Непризнанные государства − политический феномен, возникший вследствие неразрешимого противоречия права наций на самоопределение и принципа нерушимости границ.</p>
+<center>
+<table class="list" border="1" cellpadding="0" cellspacing="0" width="100%">
+
+ <tr>
+  <td align="center">СТРАНА</td>
+  <td align="center">СТОЛИЦА</td>
+  <td align="center">НА ЧЬЕЙ ТЕРРИТОРИИ НАХОДИТСЯ</td>
+  <td align="center">ПЛОЩАДЬ<br>км<sup>2</sup>&nbsp;&nbsp;&nbsp;<a class="sort" href="?sort=area1&cont=">&uarr;</a><a class="sort" href="?sort=area2&cont=">&darr;</a></td>
+  <td align="center">НАСЕЛЕНИЕ<br>&nbsp;&nbsp;&nbsp;<a class="sort" href="?sort=pop1&cont=">&uarr;</a><a class="sort" href="?sort=pop2&cont=">&darr;</a></td>
+  <td align="center"><select name="cont" onChange="document.location=this.options[this.selectedIndex].value" size="1">
+                                <option selected>КОНТИНЕНТ</option>
+                                <option value="?cont=all&sort=">все</option>
+                                <option value="?cont=eu&sort=">Европа</option>
+                                <option value="?cont=eu&sort=">Европа</option>
+                                <option value="?cont=as&sort=">Азия</option>
+                                <option value="?cont=af&sort=">Африка</option>
+<td align="center"><select name="cont" onChange="document.location=this.options[this.selectedIndex].value" size="1">
+                                <option selected>ВИД</option>
+                                <option value="?cont=all&sort=">все</option>
+                                <option value="?cont=eu&sort=">ЧП,фактически контролирующие территорию</option>
+                                <option value="?cont=eu&sort=">НП, фактически контролирующие часть территории </option>
+                                <option value="?cont=as&sort=">ЧП,под оккупацией</option>
+                                <option value="?cont=af&sort=">ЧНП</option>
+                                <option value="?cont=af&sort=">Виртуальное государство</option>
+                              </select>
+  </td>
+<!--  <td align="center">&nbsp;</td> -->
+ </tr>
+
+</tr><tr>
+
+<td class="list"><img src=  alt="флаг Авдаленд" title="флаг Авдаленд" align="absmiddle" class="flag_medium">
+<a href= >Авдаленд</a>
+</td>
+<td class="list">Борама
+</td>
+<td class="list" style="text-align:center;">Сомали
+</td>
+<td class="list" style="text-align:right;">6 122
+</td>
+<td class="list" style="text-align:right;">417 311	
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг Азавад" title="флаг Азавад" align="absmiddle" class="flag_medium">
+<a href= >Азавад</a>
+</td>
+<td class="list">Томбукту
+</td>
+<td class="list" style="text-align:center;">Мали
+</td>
+<td class="list" style="text-align:right;">822 000	
+</td>
+<td class="list" style="text-align:right;">1 295 000
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг Азания" title="флаг Азания" align="absmiddle" class="flag_medium">
+<a href= >Азания</a>
+</td>
+<td class="list">Доблей
+</td>
+<td class="list" style="text-align:center;">Сомали
+</td>
+<td class="list" style="text-align:right;">7 000	
+</td>
+<td class="list" style="text-align:right;">70 000
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг  Галмудуг" title="флаг  Галмудуг" align="absmiddle" class="flag_medium">
+<a href= > Галмудуг</a>
+</td>
+<td class="list">Галькайо
+</td>
+<td class="list" style="text-align:center;">Сомали
+</td>
+<td class="list" style="text-align:right;">46 000
+</td>
+<td class="list" style="text-align:right;">1 800 000	
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг Джубаленд" title="флаг Джубаленд" align="absmiddle" class="flag_medium">
+<a href= >Джубаленд</a>
+</td>
+<td class="list">Буале
+</td>
+<td class="list" style="text-align:center;">Сомали
+</td>
+<td class="list" style="text-align:right;">87 000	
+</td>
+<td class="list" style="text-align:right;">1 300 000
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг Пунтленд" title="флаг Пунтленд" align="absmiddle" class="flag_medium">
+<a href= >Пунтленд</a>
+</td>
+<td class="list">Гароуэ
+</td>
+<td class="list" style="text-align:center;">Сомали
+</td>
+<td class="list" style="text-align:right;">212 510
+</td>
+<td class="list" style="text-align:right;">3 900 000	
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг САДР" title="флаг САДР" align="absmiddle" class="flag_medium">
+<a href= >Сахарская Арабская Демократическая Республика</a>
+</td>
+<td class="list">Тифарити, Бир-Лелу, Эль-Аюн
+</td>
+<td class="list" style="text-align:center;">Марокко Мавритания
+</td>
+<td class="list" style="text-align:right;">266 000
+</td>
+<td class="list" style="text-align:right;">584 000
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг  Сомалиленд" title="флаг  Сомалиленд" align="absmiddle" class="flag_medium">
+<a href= > Сомалиленд</a>
+</td>
+<td class="list">Харгейса
+</td>
+<td class="list" style="text-align:center;">Сомали
+</td>
+<td class="list" style="text-align:right;">137 600
+</td>
+<td class="list" style="text-align:right;">3 515 380	
+</td>
+<td class="list" style="text-align:right;">Африка
+
+</td></tr><tr>
+
+<td class="list"><img src=  alt="флаг Химан и Хеб" title="флаг Химан и Хеб" align="absmiddle" class="flag_medium">
+<a href= >Химан и Хеб</a>
+</td>
+<td class="list">Ададо
+</td>
+<td class="list" style="text-align:center;">Сомали
+</td>
+<td class="list" style="text-align:right;">30 000
+</td>
+<td class="list" style="text-align:right;">500 000
+</td>
+<td class="list" style="text-align:right;">Африка
+</td>
+</tr>
+</table>
+<br>
+</center>
+
+
+<!-- конец ИНФОРМАЦИОННОЕ ПОЛЕ -->
+		</div>
+
+		<!--noindex-->
+
+</body>
+</html>
